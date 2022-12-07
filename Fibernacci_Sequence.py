@@ -1,5 +1,5 @@
 # Fibonacci Sequence:
-
+#
 # the result of adding the two numbers that came before it = the new sum in the sequence
 # the logic works like this: 0 + 1 = 1, 1 + 1 = 2, 1 + 2 = 3 ect...
 # To automate this in python we CAN structure it like this:
